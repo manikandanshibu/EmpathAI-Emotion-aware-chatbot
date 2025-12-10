@@ -1,6 +1,7 @@
 # EmpathAI: Emotion-Aware Chatbot
 
 > An intelligent conversational AI system that understands and responds to user emotions in real-time using camera-based emotion detection and LLM integration.
+demo video link:https://www.linkedin.com/posts/akhil-p-216829235_artificialintelligence-empathyinai-innovation-activity-7283370709093904384-MZ__?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEKBsb8BOzBiMtI-owcqYI7C7HQtFKKgByw
 
 [![GitHub stars](https://img.shields.io/github/stars/manikandanshibu/EmpathAI-Emotion-aware-chatbot?style=social)](https://github.com/manikandanshibu/EmpathAI-Emotion-aware-chatbot)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
